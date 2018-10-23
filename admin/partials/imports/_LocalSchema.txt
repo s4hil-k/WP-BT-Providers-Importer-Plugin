@@ -1,0 +1,78 @@
+
+<script type='application/ld+json'> 
+    {
+        "@context": "http://schema.org",
+        "@type" : "",
+        "name" : "",
+        "url" : "",
+        "logo" : 
+        {
+            "@type": "ImageObject",
+            "contentUrl": "schema/logo.jpg",
+            "url": "schema/logo.jpg"
+        },      
+        "image" :
+         {
+            "@type": "ImageObject",
+            "contentUrl": "schema/image.jpg",
+            "url": "schema/image.jpg"
+        }, 
+        "description" : "",
+        "additionalType" : ["LocalBusiness"],
+        "hasMap" : "",
+        "priceRange" : "",
+        "telephone" : "",
+        "address": {
+        "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": "United States",
+            "areaServed": ["Denver"]
+            },
+        "geo": 
+        {
+            "@type": "GeoCoordinates",
+            "latitude": "",
+            "longitude": ""
+        },  
+        "makesOffer": 
+        {
+            "@type": "Offer",
+            "itemOffered": []
+        },
+        "brand": 
+        {
+            "@type": "Organization",
+            "name": "",
+            "url": ""
+        },
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "",
+            "contactType": "Customer Service"
+        },
+        "openingHoursSpecification":
+        [
+            { 
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": 
+                [],
+                "opens": "",
+                "closes": ""
+            }
+
+           
+           
+        ],
+        "aggregateRating": 
+        {
+            "@type": "AggregateRating",
+            "ratingValue": "",
+            "bestRating": "5",
+            "worstRating": "1",
+            "reviewCount": ""
+        }
+    }
+</script>
